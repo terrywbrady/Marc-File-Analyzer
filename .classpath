@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/File-Analyzer"/>
+	<classpathentry kind="lib" path="C:/Users/twb27/.m2/repository/marc4j/marc4j/2.6.0/marc4j-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
