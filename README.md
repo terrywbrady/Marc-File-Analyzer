@@ -20,7 +20,8 @@ PREREQUISITES
 INSTALLATION
 - Clone the File-Analyzer to your computer
 - `mvn install`
-- Download marc4j-2.6.0.jar file and load it to your local mvn repository
+- Download marc4j-2.6.0.jar file from https://github.com/marc4j/marc4j/tree/master/releases
+- Load the jar file to your local mvn repository
 - `mvn install:install-file -Dfile=marc4j-2.6.0.jar -DgroupId=marc4j -DartifactId=marc4j -Dversion=2.6.0 -Dpackaging=jar`
 - Clone this repository to your computer
 - `mvn install`
