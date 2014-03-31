@@ -12,8 +12,8 @@ Marc4j library page: https://github.com/marc4j/marc4j
 ==================================================================================================
 
 PREREQUISITES
-- JDK 1.6 or higher (for build)
-- JRE 1.6 or higher (for runtime)
+- JDK 1.7 or higher (for build)
+- JRE 1.7 or higher (for runtime)
 - Maven (or you will need to compile the modules manually)
 - Local build of the File-Analyzer
 
